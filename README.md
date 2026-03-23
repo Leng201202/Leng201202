@@ -1,24 +1,37 @@
-# 👋 Hi, I'm Sai Shang Hlang
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;Java+%7C+Node.js+%7C+Spring;Building+Scalable+Systems" />
+</p>
+<h1 align="center">Hi 👋, I'm Sai Shang Hlang</h1>
+<h3 align="center">Backend Developer | Software Engineering Student</h3>
 
-🎓 Software Engineering Student from Myanmar, currently studying at Mae Fah Luang University (Thailand).  
-💻 Passionate about backend development, building scalable systems, and designing RESTful APIs.  
-🚀 I enjoy creating real-world applications that solve practical problems.
+<p align="center">
+  <a href="https://portfolio-leng.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="mailto:saishanghlang@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Leng201202">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 👋 About Me
+
+🎓 Software Engineering student at Mae Fah Luang University (Thailand)  
+💻 Focused on backend development and scalable systems  
+🚀 Passionate about building RESTful APIs and real-world applications  
+🌍 From Myanmar  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-Java • JavaScript  
-
-**Frameworks & Libraries:**  
-Spring Boot • Node.js • NestJS • React • Express  
-
-**Databases:**  
-PostgreSQL • MongoDB  
-
-**Tools & Technologies:**  
-Git • GitHub • REST APIs • Socket.io  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,nestjs,react,spring,postgres,mongodb,git,github" />
+</p>
 
 ---
 
@@ -26,23 +39,24 @@ Git • GitHub • REST APIs • Socket.io
 
 🚲 **Bike Rental System**  
 - Rental system for university students  
-- Supports hourly and distance-based pricing  
-- Built with React & Java (Backend API)
+- Hourly & distance-based pricing  
+- Backend with Java + REST API  
 
-💬 **Chatky (Chat App)**  
-- Real-time chat application  
-- Built using React, Node.js, and Socket.io  
+💬 **Chatky (Real-time Chat App)**  
+- Built with React, Node.js & Socket.io  
+- Real-time messaging system  
 
-🔮 **Fortune Tarot App**  
-- Mobile app built with React Native & Firebase  
+🔮 **Fortune Tarot Mobile App**  
+- React Native + Firebase  
+- Mobile-based tarot reading system  
 
 ---
 
 ## 🌱 Currently Learning
 
-- System Design (Scalability & Architecture)  
-- Advanced Backend Development (Spring Boot & NestJS)  
-- Database Optimization & Query Performance  
+- System Design (Scalable Architecture)  
+- Advanced Backend (Spring Boot & NestJS)  
+- Database Optimization  
 
 ---
 
@@ -50,15 +64,30 @@ Git • GitHub • REST APIs • Socket.io
 
 📧 Email: saishanghlang@gmail.com  
 🌐 Portfolio: https://portfolio-leng.vercel.app/  
-💻 GitHub: https://github.com/Leng201202  
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Fun Add-ons
 
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Leng201202&color=blue)
+
+### 📊 GitHub Stats
 ![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leng201202&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leng201202&layout=compact&theme=tokyonight)
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Leng201202&theme=tokyonight)
+
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leng201202&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Goals
+
+- Become a Backend Engineer (Intern → Full-time)  
+- Build scalable production-level systems  
+- Contribute to real-world impactful projects  
 
 ---
 
