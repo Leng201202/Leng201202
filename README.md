@@ -37,18 +37,32 @@
 
 ## 🔭 Current Projects
 
-🚲 **Bike Rental System**  
+### 🚲 Bike Rental System
 - Rental system for university students  
-- Hourly & distance-based pricing  
-- Backend with Java + REST API  
+- Supports hourly & distance-based pricing  
+- Backend built with Java (REST API) + React frontend  
 
-💬 **Chatky (Real-time Chat App)**  
-- Built with React, Node.js & Socket.io  
-- Real-time messaging system  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://bike-rental-system-iota.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Code-Repository-black?style=for-the-badge)](https://github.com/Leng201202/bike-rental-system)
 
-🔮 **Fortune Tarot Mobile App**  
-- React Native + Firebase  
-- Mobile-based tarot reading system  
+---
+
+### 💬 Chatky (Real-time Chat App)
+- Real-time chat application using Socket.io  
+- Built with React, Node.js & Express  
+- Handles live messaging and user connections  
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://chatky.onrender.com/)
+[![GitHub](https://img.shields.io/badge/Code-Repository-black?style=for-the-badge)](https://github.com/Leng201202/chatky)
+
+---
+
+### 🔮 Fortune Tarot Mobile App
+- Mobile app built with React Native & Firebase  
+- Provides tarot reading experience on mobile  
+
+[![Demo](https://img.shields.io/badge/Demo-View-blue?style=for-the-badge)](https://shorturl.at/m51at)
+[![GitHub](https://img.shields.io/badge/Code-Repository-black?style=for-the-badge)](https://github.com/Leng201202/fortune-tarot)
 
 ---
 
