@@ -61,7 +61,7 @@
 - Mobile app built with React Native & Firebase  
 - Provides tarot reading experience on mobile  
 
-[![Demo](https://img.shields.io/badge/Demo-View-blue?style=for-the-badge)](https://shorturl.at/m51at)
+[![Demo](https://img.shields.io/badge/Demo-View-blue?style=for-the-badge)]([https://shorturl.at/m51at](https://play.google.com/store/apps/details?id=com.napus1234.fortune&hl=en))
 [![GitHub](https://img.shields.io/badge/Code-Repository-black?style=for-the-badge)](https://github.com/Leng201202/fortune-tarot)
 
 ---
